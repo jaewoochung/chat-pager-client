@@ -1,0 +1,15 @@
+* Chat Messaging Application
+
+** [[https://chat-app-jaewoo.netlify.app/][View Project]]
+
+** Twilio
+  SMS notifications
+
+** Stream-Chat
+  API + Framework to create messaging structure
+
+** Heroku
+  Hosts the server side of application
+
+** Netlify
+  Hosts the client side of application
